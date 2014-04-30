@@ -16,5 +16,7 @@
 	"tab_size": 2,
 	"tree_animation_enabled": false,
 	"update_check": false,
-	"word_wrap": false
+	"word_wrap": false,
+	"atomic_save": false,
+	"copy_with_empty_selection": false
 }
