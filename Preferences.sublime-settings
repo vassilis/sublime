@@ -18,5 +18,6 @@
 	"update_check": false,
 	"word_wrap": false,
 	"atomic_save": false,
-	"copy_with_empty_selection": false
+	"copy_with_empty_selection": false,
+	"trim_trailing_white_space_on_save": true
 }
